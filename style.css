@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #efedf0;
-    color: #b965e9;
+    color: #ce8cf5;
 }
 
 .container {
@@ -60,7 +60,7 @@ main {
     padding: 20px;
     max-width: 960px;
     margin: 20px auto;
-    background: #b653dd;
+    background: #fdfdfd;
     box-shadow: 0 0 10px rgba(248, 242, 242, 0.1);
 }
 
@@ -75,7 +75,7 @@ section:last-child {
 }
 
 h2 {
-    color: #f0ecf1;
+    color: #d175ec;
     border-bottom: 2px solid #c760e0;
     padding-bottom: 5px;
     margin-bottom: 15px;
@@ -93,7 +93,7 @@ ul li {
 
 /* Links */
 a {
-    color: #d05aee;
+    color: #ffffff;
     text-decoration: none;
 }
 
@@ -105,7 +105,7 @@ a:hover {
 .projeto-item, .experiencia-item, .formacao-item {
     margin-bottom: 20px;
     padding: 15px;
-    border: 1px solid #dd79eb;
+    border: 1px solid #fffdff;
     border-radius: 5px;
     background-color: #d377e6;
 }
@@ -126,7 +126,7 @@ footer {
     text-align: center;
     padding: 20px;
     background: #dd75eb;
-    color: #db61d5;
+    color: #faf5fa;
     margin-top: 20px;
 }
 
