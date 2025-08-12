@@ -4,8 +4,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #ea86f3;
-    color: #f58de3;
+    background-color: #c958d3;
+    color: #b965e9;
 }
 
 .container {
@@ -16,8 +16,8 @@ body {
 
 /* Cabeçalho */
 header {
-    background: #1f6fe6;
-    color: #2d7bf1;
+    background: #d86ef3;
+    color: #cb5ada;
     padding: 1rem 0;
     text-align: center;
 }
@@ -28,8 +28,8 @@ header h1 {
 
 /* Navegação */
 nav {
-    background: #df87f5;
-    color: #eb85eb;
+    background: #c860e2;
+    color: #c962f1;
     text-align: center;
     padding: 0.5rem 0;
 }
@@ -46,13 +46,13 @@ nav ul li {
 }
 
 nav a {
-    color: #4559ca;
+    color: #a957d8;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #d579ec; /* Cor de destaque ao passar o mouse */
+    color: #d064eb; /* Cor de destaque ao passar o mouse */
 }
 
 /* Seções */
@@ -60,14 +60,14 @@ main {
     padding: 20px;
     max-width: 960px;
     margin: 20px auto;
-    background: #5d66e2;
+    background: #b653dd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 section {
     margin-bottom: 20px;
     padding: 20px;
-    border-bottom: 1px solid #e187e9;
+    border-bottom: 1px solid #c15ae0;
 }
 
 section:last-child {
@@ -75,8 +75,8 @@ section:last-child {
 }
 
 h2 {
-    color: #3a76e6;
-    border-bottom: 2px solid #e57dff;
+    color: #d26dfa;
+    border-bottom: 2px solid #c760e0;
     padding-bottom: 5px;
     margin-bottom: 15px;
 }
@@ -93,7 +93,7 @@ ul li {
 
 /* Links */
 a {
-    color: #007bff;
+    color: #d05aee;
     text-decoration: none;
 }
 
@@ -112,7 +112,7 @@ a:hover {
 
 .projeto-item h3, .experiencia-item h3, .formacao-item h3 {
     margin-top: 0;
-    color: #4d5df3;
+    color: #cb5bec;
 }
 
 hr {
