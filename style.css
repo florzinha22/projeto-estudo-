@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #c958d3;
+    background-color: #efedf0;
     color: #b965e9;
 }
 
@@ -16,7 +16,7 @@ body {
 
 /* Cabeçalho */
 header {
-    background: #d86ef3;
+    background: #fdfbfd;
     color: #cb5ada;
     padding: 1rem 0;
     text-align: center;
@@ -61,7 +61,7 @@ main {
     max-width: 960px;
     margin: 20px auto;
     background: #b653dd;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(248, 242, 242, 0.1);
 }
 
 section {
@@ -75,7 +75,7 @@ section:last-child {
 }
 
 h2 {
-    color: #d26dfa;
+    color: #f0ecf1;
     border-bottom: 2px solid #c760e0;
     padding-bottom: 5px;
     margin-bottom: 15px;
@@ -117,7 +117,7 @@ a:hover {
 
 hr {
     border: none;
-    border-top: 1px solid #eee;
+    border-top: 1px solid #f8f4f4;
     margin: 30px 0;
 }
 
